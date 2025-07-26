@@ -6,7 +6,7 @@ It uses a **Random Forest Regressor** trained on a flight price dataset.
 
 ---
 
-# ✅ This works fully in Colab (no dataset upload needed) and gives you:
-A working ML model (Random Forest)
-A simple interactive prediction UI
-No external dependencies or deployment issues
+## ✅ This works fully in Colab (no dataset upload needed) and gives you:
+- A working ML model (Random Forest)
+- A simple interactive prediction UI
+- No external dependencies or deployment issues
