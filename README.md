@@ -6,12 +6,7 @@ It uses a **Random Forest Regressor** trained on a flight price dataset.
 
 ---
 
-## 🚀 Features
-- Data cleaning & preprocessing
-- Machine Learning model for price prediction
-- Visualizations for insights
-- Easy-to-run notebook (Google Colab compatible)
-
----
-
-## 📂 Project Structure
+# ✅ This works fully in Colab (no dataset upload needed) and gives you:
+A working ML model (Random Forest)
+A simple interactive prediction UI
+No external dependencies or deployment issues
